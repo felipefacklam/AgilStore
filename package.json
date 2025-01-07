@@ -1,0 +1,18 @@
+{
+  "name": "agilstore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agilstore": "file:",
+    "express": "^4.21.2",
+    "inquirer": "^12.3.0"
+  },
+  "type": "module"
+}

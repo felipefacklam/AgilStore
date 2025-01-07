@@ -1,0 +1,16 @@
+[
+  {
+    "id": "z7yp6wl50",
+    "nome": "Produto Teste",
+    "categoria": "Categoria Teste",
+    "quantidade": 40,
+    "preco": 250
+  },
+  {
+    "id": "idjncwqs5",
+    "nome": "Produto Teste 2",
+    "categoria": "Categoria Teste 2",
+    "quantidade": 15,
+    "preco": 3000
+  }
+]
