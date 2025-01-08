@@ -1,10 +1,18 @@
 # Gerenciador de Produtos - AgilStore
 
-# Tecnologias usadas:
-Node.js
-Inquirer.js
-File System (fs.readFileSync e fs.writeFileSync)
-JavaScript
+# Tecnologias usadas e decosões:
+1. Node.js: para execução de JavaScript no servidor.
+
+2. Inquirer.js: Biblioteca para criar a interface
+
+3. File System: módulo nativo do Node.js para manipulação de arquivos.
+
+4. JavaScript
+
+5. Modularidade: funcionalidade do crud bem encapsulada, facilitando a manutenção e entendimento do codigo.
+
+6. Armazenamento em JSON: como foi solicitado
+
 
 # Como executar o projeto
 1. Certifique-se de ter o Node.js (https://nodejs.org/) instalado.
