@@ -1,6 +1,6 @@
 # Gerenciador de Produtos - AgilStore
 
-# Tecnologias usadas e decosões:
+# Tecnologias usadas e decisões:
 1. Node.js: para execução de JavaScript no servidor.
 
 2. Inquirer.js: Biblioteca para criar a interface
